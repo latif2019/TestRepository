@@ -1,6 +1,6 @@
 #My Project
 
-This is my project, it's create
+This is no longer your project, it's now Mediha's
 
 ##Setup
 
